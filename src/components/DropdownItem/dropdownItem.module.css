@@ -1,0 +1,12 @@
+.listitem {
+    color: grey;
+    padding: 10px;
+    cursor: pointer;
+    text-align: left;
+    font-size: 0.8rem;
+  }
+  
+  .listitem:hover {
+    color: rgb(53, 51, 51);
+    font-size: 0.85rem;
+  }
